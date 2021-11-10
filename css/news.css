@@ -1,5 +1,5 @@
 article {
-    margin: 20px 30px;
+    margin: 20px 30px 20px 30px;
     transition: opacity 0.325s ease-in-out, transform 0.325s ease-in-out;
     position: relative;
     width: 260px;
@@ -25,4 +25,8 @@ p {
     margin: 10px;
     font-size: 75%;
     font-family: "Montserrat", sans-serif;
+}
+
+span {
+    display: inline-block;
 }
