@@ -14,6 +14,14 @@
       rel="stylesheet"
     />
   </head>
+  <div class="background--custom">
+    <canvas id="canvas" />
+  </div>
+  <script src="https://cdn.jsdelivr.net/gh/greentfrapp/pocoloco@minigl/minigl.js"></script>
+  <script>
+  var gradient = new Gradient();
+  gradient.initGradient("#canvas");
+  </script>
   <ul class="nav">
     <li><a class="active" href="/index.html">Home</a></li>
     <li><a href="/htmls/news.html">News</a></li>
@@ -28,7 +36,10 @@
         on <a href="https://www.github.com">GitHub.</a>
       </p>
     </article>
-    <iframe src="https://player.rss.com/lotr1/316054" style="width: 100%" title="rss embed thingy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen><a href="https://rss.com/podcasts/lotr1/316054/">The Fellowship of the Ring | RSS.com Podcasting</a></iframe>
+
+    <div class="audio-container">
+      <audio controls>
+      </audio>
     </div>
   </body>
 </html>
