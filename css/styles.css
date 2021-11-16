@@ -52,6 +52,7 @@ a {
 }
 
 .nav {
+  display: flex;
   list-style-type: none;
   margin: 10px 20px;
   overflow: hidden;
