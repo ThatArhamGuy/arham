@@ -54,11 +54,18 @@ a {
 .nav {
   display: inline-flexbox;
   list-style-type: none;
-  margin: 10px 20px;
   overflow: hidden;
   background-color: transparent;
   backdrop-filter: blur(10px);
   border-radius: 5px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
 
 li {
@@ -67,19 +74,16 @@ li {
 
 li a {
   display: block;
-  color: azure;
+  color: white;
   text-align: center;
-  padding: 8px 16px;
+  padding: 14px 16px;
   text-decoration: none;
-  border-radius: 10px;
-  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
-    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
-li a:hover {
-  background-color: #20b2aa;
+li a:hover:not(.active) {
+  background-color: #111;
 }
 
-li .active {
-  background: #022534;
+.active {
+  background-color: #04aa6d;
 }
