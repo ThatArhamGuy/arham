@@ -1,5 +1,5 @@
 .background--custom {
-  background-color: #3B5396;
+  background-color: #3b5396;
   width: 100vw;
   height: 100vh;
   position: absolute;
@@ -15,10 +15,10 @@ canvas#canvas {
   width: 100%;
   height: 60%;
   transform: rotate(14deg) scale(2) translateY(-34%);
-  --gradient-color-1: #1119A3; 
-  --gradient-color-2: #F4F46E; 
-  --gradient-color-3: #18869B;  
-  --gradient-color-4: #37EE14;
+  --gradient-color-1: #1119a3;
+  --gradient-color-2: #f4f46e;
+  --gradient-color-3: #18869b;
+  --gradient-color-4: #37ee14;
   --gradient-speed: 0.000009999999999999999;
   background-size: auto;
 }
@@ -52,7 +52,7 @@ a {
 }
 
 .nav {
-  display: flex;
+  display: inline-flexbox;
   list-style-type: none;
   margin: 10px 20px;
   overflow: hidden;
