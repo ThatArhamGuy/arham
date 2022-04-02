@@ -28,11 +28,6 @@ a {
   color: $link-color;
   text-decoration: none;
   transition: all 0.25s ease-in;
-
-  &:focus,
-  &:hover {
-    text-decoration: underline;
-  }
 }
 
 p {
@@ -134,8 +129,8 @@ strong {
   font-weight: 700;
 }
 
-.highlight>div,
-.highlight>pre {
+.highlight > div,
+.highlight > pre {
   margin: 0 0 2rem;
   padding: 1rem;
   border-radius: 1rem;

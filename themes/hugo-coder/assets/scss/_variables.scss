@@ -1,34 +1,19 @@
 // Fonts
-$font-family: -apple-system,
-BlinkMacSystemFont,
-"Segoe UI",
-Roboto,
-Oxygen-Sans,
-Ubuntu,
-Cantarell,
-"Helvetica Neue",
-Helvetica,
-"PingFang SC",
-STXihei,"华文细黑",
-"Microsoft YaHei","微软雅黑",
-SimSun,"宋体",
-Heiti,"黑体",
-sans-serif;
-$code-font-family: SFMono-Regular,
-Consolas,
-Liberation Mono,
-Menlo,
-monospace;
+$font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans,
+  Ubuntu, Cantarell, "Helvetica Neue", Helvetica, "PingFang SC", STXihei,
+  "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体",
+  sans-serif;
+$code-font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
 
 // Colors
-$bg-color: #fafafa !default;
+$bg-color: #ffc3a9 !default;
 $fg-color: #212121 !default;
 $alt-bg-color: #e0e0e0 !default;
 $alt-fg-color: #000 !default;
-$link-color: #1565c0 !default;
+$link-color: #ff3d00 !default;
 
 // Dark colors
-$bg-color-dark: #212121 !default;
+$bg-color-dark: #170c08 !default;
 $fg-color-dark: #dadada !default;
 $alt-bg-color-dark: #424242 !default;
 $alt-fg-color-dark: #dadada !default;
