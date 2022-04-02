@@ -1,5 +1,5 @@
 +++
 title = "Contact"
 slug = "contact"
-externalLink = "https://arhamjshah.tech/contacts.html"
+externalLink = "https://homepage.arhamjshah.tech"
 +++
