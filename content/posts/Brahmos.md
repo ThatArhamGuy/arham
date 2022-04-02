@@ -1,8 +1,8 @@
 +++
-author = "Hugo Authors"
-title = "BrahMos and it's Significance for India."
-date = "2022-04-11"
-description = "Brahmos is a medium ramjet supersonic missile Ko develop by India and Russia. Its name is derived from the names of two rivers in India and Russia namely the Brahmaputra..........."
+author = "Arham"
+title = "BrahMos"
+date = "2022-03-11"
+description = "On March 10 2020 to various science work hard alarming the entering of some kind of missile in the Pakistani airspace"
 tags = [
     "India",
     "Military",
@@ -11,11 +11,6 @@ tags = [
     "Security",
     "Diplomacy",
 ]
-categories = [
-    "India",
-    "Pakistan",
-]
-series = ["Events"]
 +++
 
 ![[]](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzQFoZqLpg0YtIHgHnxmMwAUgo2o0zNYm_w&usqp=CAU)
