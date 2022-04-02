@@ -1,2 +1,6 @@
-+++ title = “Projects” slug = “projects” +++
++++
+title = "Projects"
+slug = "projects"
++++
 
+Nothing to see here... Move along!
