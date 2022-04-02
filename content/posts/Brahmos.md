@@ -16,7 +16,6 @@ categories = [
     "Pakistan",
 ]
 series = ["Events"]
-aliases = ["migrate-from-jekyl"]
 +++
 
 ![[]](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXzQFoZqLpg0YtIHgHnxmMwAUgo2o0zNYm_w&usqp=CAU)
