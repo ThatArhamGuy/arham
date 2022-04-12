@@ -1,0 +1,5 @@
+- Add Dark Mode and Light Mode]
+- Add Highlighted color text
+- Add root tags for both the mods
+- Design first build later
+- idk

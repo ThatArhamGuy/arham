@@ -12,6 +12,11 @@
   src: url(/css/fonts/Sofia_Pro.otf);
 }
 
+:root {
+  --color-bg-p: #12181b;
+  --color-bg-s: #2a2e35;
+}
+
 /* Typography */
 h1,
 h2,
