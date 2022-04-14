@@ -31,6 +31,10 @@ h6 {
   padding: 0 1rem;
 }
 
+html {
+  font-size: 62.5%;
+}
+
 p {
   font-family: Sofia Pro;
   color: white;
@@ -61,4 +65,9 @@ p {
 /* Background */
 body {
   background-color: var(--color-bg-p);
+}
+
+.container {
+  max-width: 1140px;
+  margin: 0 auto;
 }
