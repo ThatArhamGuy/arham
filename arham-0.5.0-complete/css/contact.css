@@ -1,0 +1,25 @@
+.container {
+  border-color: white;
+  font-family: "Montserrat", sans-serif;
+  color: aliceblue;
+  font-size: inherit;
+  backdrop-filter: blur(2px);
+}
+
+textarea,
+input,
+select {
+  background-image: url(/css/images/pic01.jpg);
+  width: 50%;
+  height: 45px;
+  border-radius: 10px;
+}
+
+select {
+  width: max-content;
+}
+
+div {
+  text-align: center;
+  padding: 8px;
+}
