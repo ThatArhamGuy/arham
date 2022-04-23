@@ -1,0 +1,21 @@
+baseURL = "https://lucky-paletas-6f1d30.netlify.app/"
+languageCode = "en-us"
+title = "Arham Shah"
+rssLimit = 20
+copyright = "HRMS."
+minify = false
+
+[Author]
+  name = "sharadcodes"
+  email = "me@example.com"
+
+[permalinks]
+  posts = "/:year/:month/:day/:filename"
+  pages = "/:slug"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+[outputs]
+  home = ["html", "json", "rss"]
