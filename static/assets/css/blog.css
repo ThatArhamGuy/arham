@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100;0,300;0,400;0,800;1,100;1,300;1,400;1,800&display=swap");
 @import url("http://fonts.cdnfonts.com/css/cubano");
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap");
 @import url("http://fonts.cdnfonts.com/css/sofia-pro");
@@ -227,7 +226,7 @@ main {
 }
 
 .standout {
-  background-image: linear-gradient(89.47deg, #00ff6a 0.27%, #db00ff 106.11%);
+  background: linear-gradient(89.47deg, #00ff6a 0.27%, #db00ff 106.11%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   background-clip: text;
