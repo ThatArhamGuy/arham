@@ -133,7 +133,7 @@ main {
   justify-content: flex-start;
 }
 .articles .article .tags .tag {
-  margin: 0 0.5rem 0.3rem 0;
+  margin: 0 0.5rem 0 0;
   display: block;
   color: var(--white-1);
   background: linear-gradient(89.47deg, #00ff6a 0.27%, #db00ff 106.11%);
