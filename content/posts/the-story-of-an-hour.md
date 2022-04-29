@@ -1,6 +1,6 @@
 ---
 title: The Purpose of Education
-date: 1948-12-12 10:18:00
+date: 1948-12-11 10:18:00
 tags: ["fiction", "hugo"]
 ---
 
