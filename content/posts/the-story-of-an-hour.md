@@ -1,7 +1,7 @@
 ---
-title: The Story of An Hour
-date: 2022-04-29 21:01:00
-tags: ["fiction", "English", "Story", "ISC", "Class XII"]
+title: The Purpose of Education
+date: 1948-12-12 10:18:00
+tags: ["fiction", "hugo"]
 ---
 
 Knowing that Mrs. Mallard was afflicted with a heart trouble, great care was taken to break to her as gently as possible the news of her husband's death.
