@@ -1,6 +1,6 @@
-@import url("http://fonts.cdnfonts.com/css/cubano");
+@import url("https://fonts.cdnfonts.com/css/cubano");
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&display=swap");
-@import url("http://fonts.cdnfonts.com/css/sofia-pro");
+@import url("https://fonts.cdnfonts.com/css/sofia-pro");
 
 :root {
   --gray-1: #3f3f3f;
@@ -134,8 +134,8 @@ main {
 .articles .article .tags .tag {
   margin: 0 0.5rem 0 0;
   display: block;
-  color: #ffffff;
-  background: #00ff6a;
+  color: var(--white-1);
+  background: linear-gradient(89.47deg, #00ff6a 0.27%, #db00ff 106.11%);
   border-radius: 15px;
   font-size: 0.7rem;
   padding: 0 0.8rem;
