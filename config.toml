@@ -1,6 +1,6 @@
 baseURL = "https://lucky-paletas-6f1d30.netlify.app/"
 languageCode = "en-us"
-title = "Arham Shah"
+title = "HRMS."
 rssLimit = 20
 copyright = "HRMS."
 minify = false
