@@ -18,4 +18,14 @@ Business Enviroment is the aggregate of all conditions, events and influences  t
 - Dynamic.  
 	Business Enviroment are not static, they keep on changing. Entry in new markets, new products, New technology, Entry of New Competitors.  
 - Uncertainity.  
-	
+	A business enviorment is very uncertain due to frequent changes in factors.  
+	Eg. Changes in Technology and Fashion
+- Relativity  
+	Business enviroment is relative in nature, it changes from country to country, and from region to region.  
+	Eg. Saree demand is there in Indian but not in China,  
+- Mutual Dependence  
+	In a Business Enviorments various organizations are depended on each other. Economic Factors influences Non-Economic Factors.
+- Non-Controllable  
+	The Factors affecting a business is largely non controllable by a single business.  
+
+
