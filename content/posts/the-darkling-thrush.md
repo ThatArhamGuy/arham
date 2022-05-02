@@ -4,13 +4,13 @@ date: 2022-04-29 09:20:00
 tags: ["Fiction", "English", "Poem", "ISC", "Class XII"]
 ---
 > I leant upon a coppice gate  
-When Frost was spectre-gray,  
-And Winter's dregs made desolate  
-The weakening eye of day.  
-The tangled bine-stems scored the sky  
-Like strings of broken lyres,  
-And all mankind that haunted nigh  
-Had sought their household fires.   
+> When Frost was spectre-gray,  
+> And Winter's dregs made desolate  
+> The weakening eye of day.   
+> The tangled bine-stems scored the sky  
+> Like strings of broken lyres,  
+> And all mankind that haunted nigh  
+> Had sought their household fires.   
   
 > The land's sharp features seemed to be  
 > The Century's corpse outleant,  
