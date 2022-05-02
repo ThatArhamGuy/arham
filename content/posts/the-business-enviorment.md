@@ -16,4 +16,5 @@ Business Enviroment is the aggregate of all conditions, events and influences  t
 		General Factors are the ones which include things like Goverment, Weather, political and legal conditions affect the business indirectly.  
 		Specific Factors are the ones which include things like Shareholders, Individual Companies, and investors, which affect the business directly.
 - Dynamic
+	
 - Uncertainity
