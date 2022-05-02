@@ -29,3 +29,10 @@ Business Enviroment is the aggregate of all conditions, events and influences  t
 	The Factors affecting a business is largely non controllable by a single business.  
 
 
+## Importance 
+- First Mover Advantage  
+	Awareness of the business Enviorment helps a firm take up new opportunities and have the first mover's advantage. Eg Maruti Udyog saw an opportunity for small car production in India.
+- Early Warning Signal  
+	Awareness of the business Enviorment, helps a business find out about it's competitors' moves. Eg. Maruti knowing some foreign companies might enter indian market increased it's production to meet the deliveries.
+- Customer Focus  
+	Awareness of the business Enviorment help make the mangement aware of the growing needs and expectations of the consumer. FMCG Brands started giving small staches instead of big bottles and it boosted their sales
