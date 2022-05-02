@@ -9,12 +9,13 @@ Business Enviroment is the aggregate of all conditions, events and influences  t
 -- Keith Davis
 
 ## Features
-- Totality of External Forces
+- Totality of External Forces.  
 	A Business Enviroment is the aggregative in nature because it is sum total of all factors external of a organisation
-- General and Specific Forces
-	Business Enviroment includes general and external factors. 
+- General and Specific Forces.  
+	Business Enviroment includes general and external factors.  
 		General Factors are the ones which include things like Goverment, Weather, political and legal conditions affect the business indirectly.  
-		Specific Factors are the ones which include things like Shareholders, Individual Companies, and investors, which affect the business directly.
-- Dynamic
+		Specific Factors are the ones which include things like Shareholders, Individual Companies, and investors, which affect the business directly.  
+- Dynamic.  
+	Business Enviroment are not static, they keep on changing. Entry in new markets, new products, New technology, Entry of New Competitors.  
+- Uncertainity.  
 	
-- Uncertainity
