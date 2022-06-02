@@ -1,6 +1,6 @@
 ---
 author: "Arham Shah"
-title: "Is Europe Becoming a Colony of USA?"
+title: "Why the Housing Crisis is Everything Crisis"
 date: "2022-05-24"
 description: "We see the influence of USA rising on the world and it's at it's peak in Europe. So, let's analyse if Europe a colony of Europe"
 tags: ["Health", "Food", "Housing", "USA", "2022", "British", "Money"]
