@@ -1,7 +1,7 @@
 ---
 author: "Arham Shah"
 title: "Civil rebellions and tribal uprisings"
-date: "2022-06-1"
+date: "2022-06-01"
 description: "A note on Rebellions and Uprisings Pre-Revolt of 1857."
 tags: ["History", "India", "British", "Events"]
 categories: ["History", "Indian History"]
@@ -30,7 +30,7 @@ The civil rebellions began in Bengal and Bihar. from 1763 to 1856 there was hard
 
 Major rebellion of India Pre-1857
 
-* Sanyasi Rebellion (made famous by [[Bankim Chandra Chatterjee]] in Anand Math) from 1763 to 1800.
+* Sanyasi Rebellion (made famous by Bankim Chandra Chatterjee in Anand Math) from 1763 to 1800.
 * Chuar uprising in five districts of Bengal and Bihar from 1766 to 1772, and again in 1795 to 1816.
 * Rangpur and Dinajpur rebellion of 1783.
 * Bishnupur and Birbhum of 1799
@@ -38,17 +38,17 @@ Major rebellion of India Pre-1857
 * Sambalpur riot from 1827 to 1840
 ## South India
 * Raja of Vizianagaram revolted in 1794
-* The [[Poligar]] of Tamil Nadu revolted during the 1790s
+* The Poligar of Tamil Nadu revolted during the 1790s
 * Malabar and coastal Andhra during the first decade of 19th century
 * Parlekamedi during 1813 to 1814
-* [[Dewan Velu Thampi of Travancore]] organised a revolt in 1805
+* Dewan Velu Thampi of Travancore organised a revolt in 1805
 * Mysore Residents also revolted in 1830 to 34
 * Ganjam in 1835
 * Kurnool in 1846 to 47
 ## Western India
 * Chiefs of Saurashtra rebelled repeatedly from 1816 to 1832
-* [[Kolis of Gujarat]] did the same during 1824, ‘28,’39 and ‘49
-* Maharashtra was in a perpetual state of revolt after the final defeat of [[the last Peshwa]]
+* Kolis of Gujarat did the same during 1824, ‘28,’39 and ‘49
+* Maharashtra was in a perpetual state of revolt after the final defeat of the last Peshwa
 * The bhil were prominent from 1818 to 1831
 * The Satara uprising of 1841
 * The revolt of Gadkari is 1844
@@ -64,7 +64,7 @@ These almost continuous rebellions were massive in their totality but were wholl
 
 The resistance represented no social alternative it was centuries old in form and ideological and cultural content its basic objective was to restore earlier forms of rule and social relations
 
-The British were able to pacify the rebellions one by one they give concessions to the less fiery rebel chiefs and Zamindar in form of reinstatement the restoration of the re-states and the reduction in revenue assessment so long as they agreed to leave peaceful under their authority the more fiery ones were quickly annihilated. [[Dewan Velu Thampi of Travancore]] was for example publicly hanged
+The British were able to pacify the rebellions one by one they give concessions to the less fiery rebel chiefs and Zamindar in form of reinstatement the restoration of the re-states and the reduction in revenue assessment so long as they agreed to leave peaceful under their authority the more fiery ones were quickly annihilated. Dewan Velu Thampi of Travancore was for example publicly hanged
 
 The suppression of the civil rebellion was a major reason Why the revolt of 1857 did not spread to South West and eastern India yet these civil uprising established a strong invaluable local tradition among the people to oppose British rule the Indian people would later draw inspiration from this traditions in the later nationalist struggle
 
@@ -72,4 +72,4 @@ The tribal people who were spread over a large part of India organised hundred o
 
 The colonial Lizum also changed the tribal peoples relationship with forest before they saw forest as a place which is the good demand for food and shelter after the colonial government came it changed all of it . It usurped the forest lands end the village common land eight refused to let cultivation shift to new areas
 
-The government officials intensified and expanded the system of [[Begar]].
+The government officials intensified and expanded the system of Begar.
