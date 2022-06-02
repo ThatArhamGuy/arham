@@ -10,7 +10,6 @@ ShowToc: true
 TocOpen: true
 ---
 
-# 02 Civil rebellions and tribal uprisings
 The revolt of 1857 which started on 11th May 1857 to 8 May 1858 was a dramatic instance of traditional struggle against foreign rule but it was no sudden occurrence it was the culmination of a century-long tradition of opposition to British domination.
 
 There establishment of British power in India was a piecemeal operation this process produce discontent resentment and resistance at every stage. Thus, resistance Took place in three forms: civil rebellions, tribal uprisings, and peasant movements.
