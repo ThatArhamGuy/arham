@@ -1,3 +1,14 @@
+---
+author: "Arham Shah"
+title: "Is Europe Becoming a Colony of USA?"
+date: "2022-06-1"
+description: "We see the influence of USA rising on the world and it's at it's peak in Europe. So, let's analyse if Europe a colony of Europe"
+tags: ["History", "Geopolitics", "USA", "British", "Current Events"]
+categories: ["Current Events"]
+series: ["Geopolitics 2022"]
+ShowToc: true
+TocOpen: true
+---
 > "The sun never set on the British Empire"
 
 This was the saying for the European Empire of 18th-20th centaury. But in todays time the question emerges "Is Europe (By extension the Whole European Union) a Colony of the USA?". This Question has emerged after the [[Russian-Ukraine Crisis]].

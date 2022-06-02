@@ -1,3 +1,15 @@
+---
+author: "Arham Shah"
+title: "The Revolt of 1857"
+date: "2022-06-1"
+description: "A note on Rebellions and Uprisings Pre-Revolt of 1857."
+tags: ["History", "India", "British", "Events"]
+categories: ["History", "Indian History"]
+series: ["India's Fight for Freedom"]
+ShowToc: true
+TocOpen: true
+---
+
 # 02 Civil rebellions and tribal uprisings
 The revolt of 1857 which started on 11th May 1857 to 8 May 1858 was a dramatic instance of traditional struggle against foreign rule but it was no sudden occurrence it was the culmination of a century-long tradition of opposition to British domination.
 

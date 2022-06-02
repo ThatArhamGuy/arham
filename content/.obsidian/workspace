@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "posts/markdown-syntax.md",
+            "file": "posts/Housing Crisis is Everything Crisis.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/markdown-syntax.md",
+                "file": "posts/Housing Crisis is Everything Crisis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,13 +88,15 @@
   },
   "active": "835f942d83dc22fb",
   "lastOpenFiles": [
+    "posts/Housing Crisis is Everything Crisis.md",
+    "posts/Europe a Colony of USA.md",
+    "posts/02 Civil rebellions and tribal uprisings.md",
+    "posts/01 The Revolt of 1857.md",
     "posts/markdown-syntax.md",
     "posts/rich-content.md",
     "posts/placeholder-text.md",
-    "posts/01 The Revolt of 1857.md",
     "search.fr.md",
     "search.md",
-    "archives.fr.md",
-    "archives.md"
+    "archives.fr.md"
   ]
 }
