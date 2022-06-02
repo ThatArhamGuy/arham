@@ -1,6 +1,6 @@
 ---
 author: "Arham Shah"
-title: "The Revolt of 1857"
+title: "Civil rebellions and tribal uprisings"
 date: "2022-06-1"
 description: "A note on Rebellions and Uprisings Pre-Revolt of 1857."
 tags: ["History", "India", "British", "Events"]
