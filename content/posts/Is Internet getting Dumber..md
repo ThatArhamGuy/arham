@@ -23,6 +23,9 @@ Today, when I use Youtube I only find things I have already know/watched about, 
 after all that's what led me to where I am, **The constant surge of interesting videos which made me think.**,
 
 I can see this in my Instagram feed as well
+![](https://blog.thatguymakes.me/images/IMG_0051.jpg)
+![](https://blog.thatguymakes.me/images/IMG_0052.jpg)
+
 
 
 
