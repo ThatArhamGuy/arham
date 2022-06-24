@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1df9bfc3b6dd8c9d",
@@ -90,6 +89,7 @@
   "active": "835f942d83dc22fb",
   "lastOpenFiles": [
     "posts/Is Internet getting Dumber, and so are we.md",
+    "images/Cyanex.jpg",
     "posts/Europe a Colony of USA.md",
     "archives.md",
     "posts/02 Civil rebellions and tribal uprisings.md",
@@ -97,7 +97,6 @@
     "posts/Housing Crisis is Everything Crisis.md",
     "posts/markdown-syntax.md",
     "posts/rich-content.md",
-    "posts/placeholder-text.md",
-    "search.fr.md"
+    "posts/placeholder-text.md"
   ]
 }
