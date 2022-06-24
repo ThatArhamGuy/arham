@@ -14,7 +14,7 @@ I have been browsing the internet since the days when [The Talking Tom](https:/
 #### How did I start?
 
 I started watching the series of [Talking Tom & Friends](https://www.youtube.com/playlist?list=PL2DBcdm4eKchvBWCHzmkuE_WSXgPaS1Mn), Then somehow due to one of the recommendations I hopped to Cyanex.
-![](![](https://blog.thatguymakes.me/images/Cyanex.jpg))
+![](https://blog.thatguymakes.me/images/Cyanex.jpg)
 
 Then from gaming, I jumped from reaction videos and vice versa.
 
@@ -45,4 +45,13 @@ Have you started studying only to feel you cannot concentrate and pick up the ph
 
 You can see 6-7-year-old **kids** watching TikToks, not playing with Mom and Dad. The [timespan of people’s attention is decreasing](https://www.euruni.edu/blog/the-truth-about-decreasing-attention-spans-in-university-students/), and we as a population are getting dumber trying to chase the “Quick Fix” from that one Tiktok.
 
+## I'd Like to end with a quote from a internet historian
 
+> The internet used to be like going to a library, seeking what you want, with helpers available. Now it's like going to a carnival, with barkers competing for your attention and money, and you leave with nothing of value, feeling entertained, yet cheated.
+
+### For continoued research
+[The Dead internet Theory](https://www.youtube.com/watch?v=DEn758DVF9I)
+[The Dead internet Theory 2](https://www.youtube.com/watch?v=6FtPvDGrpkA&amp;t=254s)
+[The Dead internet Theory](https://www.youtube.com/watch?v=RFb1Ctnqw0E)
+
+and their sources in description are to be notes
