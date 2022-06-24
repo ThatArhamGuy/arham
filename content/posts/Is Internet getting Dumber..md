@@ -13,7 +13,7 @@ I have been browsing internet since the days when [The Talking Tom](https://en.w
 
 #### How I started?
 I started watching the series of [Talking Tom & Friends](https://www.youtube.com/playlist?list=PL2DBcdm4eKchvBWCHzmkuE_WSXgPaS1Mn), Then some how due to one of the recommedation I hopped to Cyanex .
-![](images/Cyanex.jpg)
+![](https://blog.thatguymakes.me/images/Cyanex.jpg)
 
 Then from gaming I jumped from reaction videos and vice versa.
 
