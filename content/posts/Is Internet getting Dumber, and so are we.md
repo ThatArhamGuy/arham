@@ -44,3 +44,5 @@ I feel TikTok is making people dumber, Have you ever felt “Why I am doing this
 Have you started studying only to feel you cannot concentrate and pick up the phone to watch tiktoks, somehow an hour or two passed and now what is the need to study.
 
 You can see 6-7-year-old **kids** watching TikToks, not playing with Mom and Dad. The [timespan of people’s attention is decreasing](https://www.euruni.edu/blog/the-truth-about-decreasing-attention-spans-in-university-students/), and we as a population are getting dumber trying to chase the “Quick Fix” from that one Tiktok.
+
+
