@@ -1,7 +1,7 @@
 ---
 author: "Arham Shah"
 title: "Is Internet getting Dumber?"
-date: "2022-06-25"
+date: "2022-06-24"
 description: "I Feel the internet we use is getting dumber."
 tags: ["Internet", "Intellect", "Knowledge", "Mind", "Computer"]
 categories: ["Current Events"]
